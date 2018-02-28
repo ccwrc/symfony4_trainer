@@ -1,0 +1,3 @@
+
+create:
+composer create-project symfony/website-skeleton symfony4_trainer
