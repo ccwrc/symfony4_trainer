@@ -1,3 +1,7 @@
 
 create:
 composer create-project symfony/website-skeleton symfony4_trainer
+
+local to github:
+https://sennajavieblog.wordpress.com/2017/03/30/wrzucanie-projektu-na-github/
+
